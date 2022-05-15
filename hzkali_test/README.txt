@@ -1,18 +1,13 @@
-REMIX EXAMPLE PROJECT
+# Whitepaper
 
-Remix example project is present when Remix loads for the very first time or there are no files existing in the File Explorer. 
-It contains 3 directories:
+---
 
-1. 'contracts': Holds three contracts with different complexity level, denoted with number prefix in file name.
-2. 'scripts': Holds two scripts to deploy a contract. It is explained below.
-3. 'tests': Contains one test file for 'Ballot' contract with unit tests in Solidity.
+**Harpswap is a blockchain innovation hub with a DAO-driven harp swap decentralized incubator, and launchpad**, for empowering next innovations of the blockchain ecosystem, through community-driven governance, feedback, involvement and funding mechanisms.
 
-SCRIPTS
+Any entrepreneur/innovator can submit their projects to Harpswap DAO, get voted by the community, and get their harp swap as well as enter our incubation program by winning the votes.
 
-The 'scripts' folder contains example async/await scripts for deploying the 'Storage' contract.
-For the deployment of any other contract, 'contractName' and 'constructorArgs' should be updated (along with other code if required). 
-Scripts have full access to the web3.js and ethers.js libraries.
+At Harpswap, stakers and our community members who involve in the success of the projects that get their seed fund and incubated through community votings, receive reward tokens from all selected & funded projects, creating a DeFi harp swap mechanism to create diversified portfolios of reward tokens through staking Harps.
 
-To run a script, right click on file name in the file explorer and click 'Run'. Remember, Solidity file must already be compiled.
+Also our Launchpad provides a robust environment for IDOs to take place, with a tiered based allocation mechanism for HARPS holders/stakers and farmers, to enjoy these benefits at the same time. Those who stake and/or yield farm HARPS tokens, also become eligible for the IDOs according to the tier system.
 
-Output from script will appear in remix terminal.
+Our whitepaper is ready for you to take a look at all the mechanisms and systems of our decentralized incubator & harpswap ecosystem.
