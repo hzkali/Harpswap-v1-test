@@ -1,0 +1,54 @@
+{
+	"compiler": {
+		"version": "0.8.4+commit.c7e474f2"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"details": "Collection of functions related to array types.",
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			".deps/npm/@openzeppelin/contracts-upgradeable/utils/ArraysUpgradeable.sol": "ArraysUpgradeable"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		".deps/npm/@openzeppelin/contracts-upgradeable/utils/ArraysUpgradeable.sol": {
+			"keccak256": "0x7c78eb214065a464bc47849a116caf75cac46307e6dc80a789447dd0a13494d8",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://770f710872dcb46accb663a1e4c570242b27fa85fb1311207f7815ec2d7bf9fc",
+				"dweb:/ipfs/QmW85KECqXuHsUdUcWbgn8x4gKSQdFg1gBeYTKoef4dRNc"
+			]
+		},
+		".deps/npm/@openzeppelin/contracts-upgradeable/utils/math/MathUpgradeable.sol": {
+			"keccak256": "0xd0a917e32d1251a9b2f1dea15e932815d5382e64e6b0a18104664a6cc774cd70",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://60174d1dd57aba43ec620c5938c37d254afaa0b05ee9c4eeef5b1f7bf7f21423",
+				"dweb:/ipfs/QmNennX1XgjkDRpjtPWqxqunVUoGYiJ2EncXo8bS9rahM9"
+			]
+		}
+	},
+	"version": 1
+}
